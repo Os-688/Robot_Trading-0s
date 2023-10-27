@@ -41,6 +41,20 @@ Para utilizarlo, se recomienda ejecutar el notebook en Google Colab. Si optas po
     - Requests RateLimiter
     - pyrate_limiter
 
+
+```python
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install yfinance
+pip install requests
+pip install beautifulsoup4
+pip install TA-Lib  # para instalar TA-Lib (Talib), es posible que necesites pasos adicionales dependiendo del sistema operativo
+pip install requests-cache
+pip install requests-ratelimiter
+pip install pyrate-limiter
+```
+
 ## Instalación
 
 Para instalar el proyecto, sigue la secuencia de ejecución en Google Colab, la cual instalará las bibliotecas necesarias. Si utilizas otro entorno, instala cada biblioteca antes de importarlas.
@@ -61,6 +75,7 @@ Agradezco a yfinance por proporcionar una herramienta sencilla para obtener dato
 ## Estado del Proyecto
 
 Versión 1.0 estable. Última actualización: 27/10/2023.
+
 
 
 
