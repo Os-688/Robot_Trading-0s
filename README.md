@@ -46,7 +46,7 @@ Para usar el robot ejecuta todos las secciones de codigo antes de la sexta secci
 ## Autor
 
 - Os-688
-- Enlace a tu perfil de GitHub u otras redes sociales
+-  [GitHub](https://github.com/Os-688)
 
 ## Agradecimientos (Opcional)
 
