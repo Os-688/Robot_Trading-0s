@@ -48,13 +48,13 @@ Para utilizar el robot, ejecuta todas las secciones de código antes de la sexta
 
 - **Os-688**
 
-## Agradecimientos (Opcional)
+## Agradecimientos
 
 Agradezco a yfinance por proporcionar una herramienta sencilla para obtener datos de Yahoo Finance.
 
 ## Estado del Proyecto
 
-Versión 1.0 estable
+Versión 1.0 estable. Última actualización: 27/10/2023.
 
 
 
