@@ -8,12 +8,14 @@ Para usarlo lo mejor seria usar google colab y ejecutar todo el notebook. Pero s
 
 ## Características Principales
 
+- Inicio de la aplicación cada 5 minutos.
+- Toma de decisiones por 4 variables.
+- Grafica con la decision de compra/venta del bitcoin y más datos: historico, media.
 - Web Scrapping para la creación de variables.
 - Uso de la biblioteca Yfinance para la obtención del historico del bitcoin.
 - Uso de Talib para obtener el rsa y sma50.
 - Tratamiento de datos: Eliminación de valores nulos, iguales a 0 y outlayers.
-- Uso de matplotlib.pyplot para crear la grafica con los resultados de la decisión.
-- Automatización cada 5 minutos. 
+- Uso de matplotlib.pyplot para crear graficas.
 
 ## Requisitos Previos
 1- Si usas google colab sigue el orden de ejecucion de cada apartado.
