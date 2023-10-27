@@ -4,7 +4,7 @@ El Robot Trading es una automatización para la recolección, tratamiento de dat
 
 ## Instrucciones de Uso
 
-Para utilizarlo, se recomienda ejecutar el notebook en Google Colab. Si optas por otro método, asegúrate de descargar todas las librerías mencionadas en la sección de requisitos previos y luego importarlas. Con esto, podrás ejecutar todas las celdas de código.
+Para utilizarlo, se recomienda ejecutar el notebook en Google Colab. Si optas por otro método, asegúrate de descargar todas las librerías mencionadas en la sección de requisitos previos y luego importarlas. Con esto, podrás ejecutar todas las celdas de código a excepcion a las siguientes celdas que solamente son obligatorias en google colab.
 
 ## Características Principales
 
