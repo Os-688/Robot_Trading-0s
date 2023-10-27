@@ -16,45 +16,45 @@ Para usarlo lo mejor seria usar google colab y ejecutar todo el notebook. Pero s
 - Automatización cada 5 minutos. 
 
 ## Requisitos Previos
+1- Si usas google colab sigue el orden de ejecucion de cada apartado.
 
-- Si es necesario, menciona los requisitos previos, como versiones de software, bibliotecas, etc.
+2- Si no estas usando Google Colab tienes que instalar las siguientes bibliotecas.
+
+### Bibliotecas Utilizadas
+
+- **Pandas:** Para el manejo y análisis de datos tabulares.
+- **NumPy:** Para operaciones numéricas eficientes y soporte para arreglos multidimensionales.
+- **Matplotlib:** Para la creación de gráficos y visualización de datos.
+- **yfinance:** Para acceder a datos financieros, como precios de acciones.
+- **Requests:** Para realizar solicitudes HTTP, especialmente útil para la obtención de datos de la web.
+- **BeautifulSoup (bs4):** Para el análisis y extracción de datos de páginas web (web scraping).
+- **Talib:** Biblioteca TA-Lib, utilizada para el análisis técnico en finanzas.
+- **Requests Cache:** Para el almacenamiento en caché de solicitudes HTTP y reducción de la carga en servidores.
+- **Requests RateLimiter:** Para limitar la velocidad de las solicitudes HTTP.
+- **pyrate_limiter:** Aunque no se especifica su uso en el código proporcionado, parece ser una biblioteca relacionada con la limitación de velocidad.
 
 ## Instalación
 
-Describe cómo instalar tu proyecto. Puedes proporcionar comandos o enlaces a instrucciones detalladas.
+Para instalar el proyecto puedes seguir la pila de ejecucion de google colab, te llevara a instalar las bibliotecas necesarias.
+Si usas otro medio instala cada una de las bibliotecas antes de importarlas.
 
 ## Ejemplos de Uso
 
-Proporciona ejemplos de código o comandos que demuestren cómo utilizar tu proyecto.
+Para usar el robot ejecuta todos las secciones de codigo antes de la sexta sección. Ahora para activarlo ejecuta la sexta seccion. El codigo se ejecutara cada 5 minutos con la grafica que contendra la nueva decision tomada.
 
-## Contribuciones
-
-Si permites contribuciones de otros desarrolladores, proporciona información sobre cómo pueden contribuir a tu proyecto. Incluye pautas para presentar solicitudes de extracción y reglas de contribución.
-
-## Licencia
-
-Indica la licencia bajo la cual se distribuye tu proyecto. Por ejemplo, puedes usar una licencia de código abierto como MIT, Apache 2.0, etc.
 
 ## Autor
 
-- Tu nombre o alias
-- Tu dirección de correo electrónico
+- Os-688
 - Enlace a tu perfil de GitHub u otras redes sociales
 
 ## Agradecimientos (Opcional)
 
-Si has utilizado bibliotecas, herramientas o recursos de otros, considera agradecer y dar créditos a los creadores de esas contribuciones.
+Gracias a yfinance por brindar una herramienta sencilla para obtener datos de yahoo finance.
 
 ## Estado del Proyecto
 
-Indica el estado actual de tu proyecto, como "En desarrollo", "Versión 1.0 estable", etc.
+Versión 1.0 estable
 
-## Historial de Cambios (Opcional)
-
-Si deseas mantener un registro de cambios, puedes incluir un historial de cambios aquí.
-
-## Información de Contacto
-
-Proporciona información de contacto para que los usuarios puedan ponerse en contacto contigo si tienen preguntas o problemas.
 
 
