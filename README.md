@@ -1,14 +1,19 @@
-# Título del Proyecto
+# Robot Trading
 
-Breve descripción del propósito o funcionalidad de tu proyecto.
+Es una automatizacion de recolección, tratamiento de datos y uso para crear un algoritmo que decidira si se compra bitcoin o se vende.
 
 ## Instrucciones de Uso
 
-Proporciona aquí instrucciones básicas para instalar y utilizar tu proyecto. Puedes incluir ejemplos de comandos, configuraciones necesarias y cualquier otra información relevante.
+Para usarlo lo mejor seria usar google colab y ejecutar todo el notebook. Pero sino lo haces de esta manera tienes que descargar cada una de las librerias que se encuentra en el primer apartado y después importarlas. Con esto ya puedes ejecutar todas las celdas de codigo.
 
 ## Características Principales
 
-- Enumera las características clave de tu proyecto.
+- Web Scrapping para la creación de variables.
+- Uso de la biblioteca Yfinance para la obtención del historico del bitcoin.
+- Uso de Talib para obtener el rsa y sma50.
+- Tratamiento de datos: Eliminación de valores nulos, iguales a 0 y outlayers.
+- Uso de matplotlib.pyplot para crear la grafica con los resultados de la decisión.
+- Automatización cada 5 minutos. 
 
 ## Requisitos Previos
 
