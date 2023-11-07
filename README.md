@@ -1,4 +1,13 @@
-# Robot Trading
+<p align="center">
+   <h1 align="center"> Robot Trading</h1>
+</p>
+
+
+<p align="center">
+  <img src="images/challenge_1.png" alt="Grafica de decision">
+</p>
+
+## Descripción:
 
 El Robot Trading es una automatización para la recolección, tratamiento de datos y creación de un algoritmo que toma decisiones de compra o venta de Bitcoin.
 
